@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LostDroid</string>
+    <string name="title_activity_sms_reader">SmsReader</string>
+
+     <string name="action_settings">Settings</string>
+    <string name="title_activity_sms_reader2">SmsReader2</string>
+
+</resources>
